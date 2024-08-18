@@ -1,8 +1,8 @@
 ### Hi there 👋
-I am currently learning software development, web development and cyber security. I look forward to learning and sharing my knowledge with others so as to solve real world problems.
-I am also a student at Machakos university pursuing Bachelors degree in computer science.
+I am currently learning software development. I look forward to learning and sharing my knowledge with others so as to solve real world problems.
+I graduated with a Bachelors degree in computer science from Machakos Univeristy.
 # 💫 About Me:
-🔭 I’m currently working on management system<br>🤝 I’m looking for help with cyber Security and Ethical Hacking<br>🌱 I’m currently learning web and software development<br>
+🔭 I’m currently Software engineering<br>🤝 I’m looking to be a fullstack developer<br>🌱 I would also like to delve into cyber security and ethical hacking<br>
 
 
 ## 🌐 Socials:
